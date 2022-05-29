@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Digiventures
 
-🌱 I’m currently improving my skills as a fullstack developer, learning typescript and mobile apps development.
+🌱 I’m currently improving my skills as a fullstack developer learning typescript and mobile apps development.
 
 

@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Digiventures
+🔭 I’m currently working on Urbetrack 
 
-🌱 I’m currently improving my skills as a fullstack developer learning typescript
+🌱 I’m currently improving my skills as a fullstack developer
 
 
